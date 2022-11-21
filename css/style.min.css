@@ -969,3 +969,9 @@ section {
 }
 
 /*=====  End of RESPONSIVE  ======*/
+
+
+.contacts {
+  /* background-color: #333399; */
+  flex-direction: column;
+}
